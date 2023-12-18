@@ -16,9 +16,9 @@ This simple yet entertaining Python script emulates the classic Magic 8-Ball toy
 
 2. **Running the Script**: Download the script and run it in your Python environment. You can do this either through an IDE or via the command line, using:
    ```bash
-   python magic_8_ball.py
+   python 8ball.py
    ```
-   Replace `magic_8_ball.py` with the path to your script if necessary.
+   Replace `8ball.py` with the path to your script if necessary.
 
 3. **Using the Program**:
    - When prompted, type your question and hit Enter. Remember, the Magic 8-Ball is traditionally used for yes-or-no questions.
